@@ -21,6 +21,7 @@
   "homepage": "https://github.com/jlipps/appium-publisher",
   "dependencies": {
     "socket.io": "^0.9.16",
-    "wd": "^0.2.19"
+    "wd": "^0.2.19",
+    "should": "^3.3.1"
   }
 }
