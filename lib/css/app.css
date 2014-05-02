@@ -14,12 +14,12 @@ a#publish {
   display: block;
   margin: 0px auto;
   margin-top: 30px;
-  padding: 30px 60px;
+  padding: 50px 5%;
   border: 3px solid #D1E8EA;
   background: #57ACCF;
   color: #D1E8EA;
   font-size: 40px;
-  width: 200px;
+  width: 80%;
   text-decoration: none;
   border-radius: 20px;
   -webkit-border-radius: 20px;
@@ -31,7 +31,7 @@ a#publish:hover {
 
 #console, #publishing {
   margin: 0px auto;
-  width: 90%;
+  width: 80%;
   border: 3px solid #D1E8EA;
   background: #222;
   color: #FFF;
@@ -47,6 +47,7 @@ a#publish:hover {
   border: none;
   background: none;
   font-size: 20px;
+  height: 20px;
   position: relative;
   left: -13px;
 }
