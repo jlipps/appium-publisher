@@ -25,6 +25,13 @@ a#publish {
   -webkit-border-radius: 20px;
 }
 
+img#thumb {
+  display: block;
+  margin: 0px auto;
+  margin-top: 30px;
+  width: 60%;
+}
+
 a#publish:hover {
   background-color: #479CBF;
 }
